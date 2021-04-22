@@ -1,4 +1,4 @@
-**Module 8: Sniffing**
+**Module 08: Sniffing**
 
 **Packet Sniffing**
 
